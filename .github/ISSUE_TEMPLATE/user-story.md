@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-##User Story
+## User Story
 
-**COMO** [actor]
-**QUIERO** [algo]
-**PARA QUE** [algo]
+**COMO** 
+**QUIERO** 
+**PARA QUE** 
 
-##Criterio de Aceptacion
-- [ ] [algo]
+## Criterio de Aceptacion
+- [ ]
